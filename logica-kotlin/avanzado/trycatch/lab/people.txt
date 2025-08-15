@@ -1,0 +1,6 @@
+juan,25
+ana,30
+Luis,5
+Maria,30
+Miriam,19
+Anita,50
